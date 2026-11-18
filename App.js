@@ -21,12 +21,12 @@ Notifications.setNotificationHandler({
 SplashScreen.preventAutoHideAsync();
 
 const APP_CONFIG = {
-  websiteUrl: "{{WEBSITE_URL}}",
-  userAgent: "{{USER_AGENT}}",
+  websiteUrl: "{{https://ram-ai-1-anzt.vercel.app/}}",
+  userAgent: "{{60000}}",
   deepLinking: {
     enabled: true,
-    allowedDomains: ["{{MAIN_DOMAIN}}"],
-    customScheme: "{{APP_SCHEME}}"
+    allowedDomains: ["{{ram-ai-1-anzt.vercel.app/}}"],
+    customScheme: "{{RU Buddy}}"
   },
   notificationConfig: {
     apiEndpoint: "{{NOTIFICATION_API_ENDPOINT}}",
