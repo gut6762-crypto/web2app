@@ -15,7 +15,7 @@
         "NSPhotoLibraryUsageDescription": "This app needs access to your photo library for uploads.",
         "ITSAppUsesNonExemptEncryption": false
       },
-      "bundleIdentifier": "{{BUNDLE_ID}}"
+      "bundleIdentifier": "{{com.tan.rubuddy}}"
     },
     "android": {
       "adaptiveIcon": {
